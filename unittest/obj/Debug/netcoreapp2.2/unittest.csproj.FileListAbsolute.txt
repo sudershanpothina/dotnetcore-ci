@@ -1,0 +1,14 @@
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/bin/Debug/netcoreapp2.2/unittest.deps.json
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/bin/Debug/netcoreapp2.2/unittest.runtimeconfig.json
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/bin/Debug/netcoreapp2.2/unittest.runtimeconfig.dev.json
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/bin/Debug/netcoreapp2.2/unittest.dll
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/bin/Debug/netcoreapp2.2/unittest.pdb
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/obj/Debug/netcoreapp2.2/unittest.csprojAssemblyReference.cache
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/obj/Debug/netcoreapp2.2/unittest.csproj.CoreCompileInputs.cache
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/obj/Debug/netcoreapp2.2/unittest.AssemblyInfoInputs.cache
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/obj/Debug/netcoreapp2.2/unittest.AssemblyInfo.cs
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/obj/Debug/netcoreapp2.2/unittest.dll
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/unittest/obj/Debug/netcoreapp2.2/unittest.pdb

@@ -1,0 +1,11 @@
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/consoleapp1/bin/Debug/netcoreapp2.2/consoleapp1.deps.json
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/consoleapp1/bin/Debug/netcoreapp2.2/consoleapp1.runtimeconfig.json
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/consoleapp1/bin/Debug/netcoreapp2.2/consoleapp1.runtimeconfig.dev.json
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/consoleapp1/bin/Debug/netcoreapp2.2/consoleapp1.dll
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/consoleapp1/bin/Debug/netcoreapp2.2/consoleapp1.pdb
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/consoleapp1/obj/Debug/netcoreapp2.2/consoleapp1.csprojAssemblyReference.cache
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/consoleapp1/obj/Debug/netcoreapp2.2/consoleapp1.csproj.CoreCompileInputs.cache
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/consoleapp1/obj/Debug/netcoreapp2.2/consoleapp1.AssemblyInfoInputs.cache
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/consoleapp1/obj/Debug/netcoreapp2.2/consoleapp1.AssemblyInfo.cs
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/consoleapp1/obj/Debug/netcoreapp2.2/consoleapp1.dll
+/Users/Sdrshn-Home/Desktop/dotnetwrkspc/dotnetcore-ci/consoleapp1/obj/Debug/netcoreapp2.2/consoleapp1.pdb
